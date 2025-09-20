@@ -46,7 +46,8 @@ The goal is to calculate profits, visualize revenue vs expenses trends, and anal
 ---
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](04_Images/Dashboard_Screenshot.png)
+![Dashboard Screenshot](<img width="896" height="498" alt="Profit analysis Dash Board" src="https://github.com/user-attachments/assets/c59ad4c7-5465-4d53-b9c3-c86014aef06c" />
+)
 
 ---
 
